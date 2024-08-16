@@ -1,7 +1,9 @@
 # rrain
 rain.sh but in rust
-#Installation
-```
+
+# Installation
+
+``` shell
 git clone https://github.com/Botan-Yuukan/rrain --depth=1
 cd rrain
 cargo build
